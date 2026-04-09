@@ -1,11 +1,11 @@
-# 📊Hi!!  I am Pragyan Saikia🙋
-
-## Welcome to My Data Analyst Portfolio 🙋
+## 📊 Welcome to My Data Analyst Portfolio 🙋
 
 ## 👤 Profile Summary
 
-I am an **IBM Certified Data Analyst** transitioning from 4+ years in Project Management into Business & Data Analytics. Focused, analytical, and results‑driven, I bridge domain knowledge with technical skills to improve reporting, forecasting, and go‑to‑market decisions. 
-I specialize in turning raw data into decision-making insights using tools such as **Excel, Python, SQL, and Power BI**. With hands-on project experience, I bring both analytical depth and business understanding to every challenge.
+- I am an **IBM Certified Data Analyst** transitioning from 4+ years in Project Management into Business & Data Analytics. 
+- Focused, analytical, and results‑driven, I bridge domain knowledge with technical skills to improve reporting, forecasting, and go‑to‑market decisions. 
+- I specialize in turning raw data into decision-making insights using tools such as **Excel, Python, SQL, and Power BI**.
+- With hands-on project experience, I bring both analytical depth and business understanding to every challenge.
 
 -----
 
@@ -52,8 +52,6 @@ I specialize in turning raw data into decision-making insights using tools such 
  ---   
  
 ### 🔍 Finance Analysis BI Dashboard:
-
-•	Interactive weekly dashboard & key insights: Delivered a Power BI dashboard (bar charts, matrices, slicers) showing YTD performance, customer and card‑level revenue, and trends—highlighting $56.52M total revenue (2025), strong contributions from Blue/Silver cards, and top states TX/NY/CA.
 
 - Built an end‑to‑end Power BI solution using ETL Techniques. Extracted transactional and customer data from MySQL cc_db into CSV, transformed in Power Query, and modeled with DAX (Current_week_rev, WoW_revenue%).
 - Delivered an interactive weekly/quarterly dashboard showing YTD Performance
