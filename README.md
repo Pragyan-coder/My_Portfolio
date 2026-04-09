@@ -42,32 +42,41 @@
 
 ## 📈 Featured Project
 
-### 🔍 Excel Financial Report for FY 2023, 24, 25:
+### 🔍 Excel Sales (P/L) Report for FY 2023, 24, 25:
 
 - Built an end-to-end Excel analytics solution (Power Query, DAX, PivotTable) to process ~800,000 transactions for AtliQ Hardware.
 - Revealed rapid revenue growth ($87.5M → $598.9M), margin compression (41.4% → 36.4%), product‑led expansion, cost control, and go to market decisions.
-- Highlighted priority opportunities: optimize COGS and promotions, scale high-performing SKUs, and diversify customer/market concentration.
+- Highlighted priority opportunities: optimize COGS, scale high-performing SKUs, and diversify customer/market concentration.
 - For Project Repository [Click Here](https://github.com/Pragyan-coder/Sales-Finance-Analysis-of-AtliQ-Hardware)
 
  ---   
  
 ### 🔍 Finance Analysis BI Dashboard:
 
-- Built an end‑to‑end Power BI solution using ETL Techniques. Extracted transactional and customer data from MySQL cc_db into CSV, transformed in Power Query, and modeled with DAX (Current_week_rev, WoW_revenue%).
-- Delivered an interactive weekly/quarterly dashboard showing YTD Performance
-- Revealing insights such as ($56.52M) total revenue in 2025, dominant Blue/Silver card contributions, and top‑state concentration in TX, NY, CA.
+- Extracted & transformed data using MySQL, Power Query, built DAX measures, and built an end‑to‑end Power BI solution using ETL Techniques.
+- Delivered an interactive ‘Weekly & Quarterly’ dashboard highlighting YTD performance, customer & card‑level revenue, trends.
 - For Project Repository [Click Here](https://github.com/Pragyan-coder/YCB-Credit_Card-Dashboard)
+
+---
+
+### 🔍 Hospitality Analysis (EDA) using Python Libraries:
+
+- Extracted and analysed over ~ 140k hotel booking records using Python & Pandas in Jupyter Notebook.
+- Performed rigorous data cleaning, addressing revenue outliers and anomalies to ensure data integrity, leading to improved performance by 12% 
+- Engineered performance metrics to evaluate hotel efficiency. And deriving strategic insights into revenue trends across diverse cities.
+- For Project Repository [Click Here](https://github.com/Pragyan-coder/Hospitality-Analysis-EDA-using-Python-Libraries)
 
  ---- 
 
 ## 📜 Certifications:
 
-- **Power BI Certification** — TuteDude (IIT Alumni Initiative) [Click Here](https://upskill.tutedude.com/certificate/TD-PRAG-PB-1316)
-- **Microsoft Power BI Analyst** Certification — Microsoft (Coursera) [Click Here](https://coursera.org/share/a8eda9c06bbc246b29504b92ad0f9da4)
-- **IBM Data Analyst** Professional Certificate — IBM [Click Here](https://coursera.org/share/c9e2d1f15d8b152e4e8ca800a29f3588)
+- **Power BI Certification** - TuteDude (IIT Alumni Initiative) [Click Here](https://upskill.tutedude.com/certificate/TD-PRAG-PB-1316)
+- **Microsoft Power BI Analyst** Certification - Microsoft [Click Here](https://coursera.org/share/a8eda9c06bbc246b29504b92ad0f9da4)
+- **IBM Data Analyst** Professional Certificate - IBM [Click Here](https://coursera.org/share/c9e2d1f15d8b152e4e8ca800a29f3588)
 - **Gen AI for Data Analysts** - IBM [Click Here](https://coursera.org/share/189709b837cc88ce90df077f75cf1472)
 - **Google AI Essentials** Certificate - Google [Click Here](https://coursera.org/share/8f887a2c43153b93e460ef33727724f2)
 - **UI Design Specialization** - Coursera [Click Here](https://coursera.org/share/f53da0cd179e3a4707cfe302d4a501b3)
+
 
 ----
 
@@ -79,11 +88,10 @@
 ---
 
 ## 📬 Let’s Connect!
-Reach out to discuss how data can drive better decisions for your business.
-I’m **Open to** ‘Entry-level analyst’ roles & projects where I can contribute my skills to help turn your data into decisions, provide operational clarity, and drive revenue 📈
-Reach out to discuss how data can drive better decisions for your business
 
-- 📧 Email: [pragyan.saikia04@gmail.com]  
-- 🔗 LinkedIn:[Click Here](https://www.linkedin.com/in/pragyansaikia29/)   
-- 💻 GitHub: [GitHub Profile]
+I’m **Open to** ‘Entry-level analyst’ roles & projects where I can contribute my skills to help turn your data into decisions, provide operational clarity, and drive revenue 📈. Reach out to discuss how data can drive better decisions for your business
+
+- 📧 Email:[pragyan.saikia04@gmail.com] 
+- 🔗 LinkedIn:[Click Here](https://www.linkedin.com/in/pragyansaikia29/)
+- 💻 GitHub:[Click Here](https://github.com/Pragyan-coder)
 - Resume: Download link (PDF)
