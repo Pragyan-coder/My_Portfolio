@@ -1,10 +1,10 @@
 ## 📊 Welcome to My Data Analyst Portfolio 🙋
 
-## 👤 Profile Summary
+## 👤 About Me
 
 - I am an **IBM Certified Data Analyst** transitioning from 4+ years in Project Management into Business & Data Analytics. 
 - Focused, analytical, and results‑driven, I bridge domain knowledge with technical skills to improve reporting, forecasting, and go‑to‑market decisions. 
-- I specialize in turning raw data into decision-making insights using tools such as **Excel, Python, SQL, and Power BI**.
+- I specialize in turning raw data into decision-making insights using tools such as **Excel, Python, SQL, Power BI**.
 - With hands-on project experience, I bring both analytical depth and business understanding to every challenge.
 
 -----
@@ -22,7 +22,8 @@
 ## 💼 Professional Experience
 
 **Project Lead (Quality)** - ARC Test House & Consultant LLP
-- Dec 2019 – Jun 2025
+
+**December 2019 – June 2025**
 
 - Results‑driven Lead Engineer with 5 years in construction project management & consulting.
 - Supervised 3 end‑to‑end projects and managed cross‑functional teams to deliver project on schedule.
